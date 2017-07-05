@@ -1,0 +1,15 @@
+{
+  "name": "App",
+  "app_id": "22a68333",
+  "watch": {
+    "watch": "app/**/*",
+    "livereload": [
+      "www/**/*",
+      "!www/lib/**/*"
+    ]
+  },
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*"
+  ]
+}
